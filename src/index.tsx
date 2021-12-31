@@ -2,13 +2,12 @@
  * @Author: xiaoWen
  * @Date: 2021-12-31 15:05:26
  * @LastEditors: xiaoWen
- * @LastEditTime: 2021-12-31 15:17:13
+ * @LastEditTime: 2021-12-31 15:30:07
  */
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
+import './index.less';
 import App from './App';
-// import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
@@ -20,4 +19,3 @@ ReactDOM.render(
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-// reportWebVitals();
